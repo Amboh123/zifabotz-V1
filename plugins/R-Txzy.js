@@ -1,5 +1,5 @@
 let handler = async (m, { conn }) => {
-let caption = `*TANYA KE OWNER AJA COK,GW GAK TAU!*`
+let caption = `*silahkan tanya ke https://wa.me/6285828764046*`
 
 conn.sendButton( m.chat, caption, `©️ zifabotz`, `Otw tanya owner`, `.ownerzifa`, m)
 
